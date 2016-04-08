@@ -5,8 +5,17 @@ proxypool1 us1.ethermine.org:4444
 proxypool2 us2.ethermine.org:4444
 flags --cl-global-work 16384 --farm-recheck 200
 globalfan 100
-globalpowertune 20
-
+globalpowertune 25
+# 
+# 
+# _______reboot 4x390_______
+# reb 9214ad 1
+# 
+# _______reboot 4x290_______
+# reb a97e7e 1
+#
+#
+#
 # !!!!!!!!!!!!! IMPORTANT NOTICE !!!!!!!!!!!!!!!!!!
 #
 # Read the ethOS knowledge base, a useful guide to getting set up: http://ethosdistro.com/kb/
