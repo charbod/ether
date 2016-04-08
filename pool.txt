@@ -9,7 +9,7 @@ globalpowertune 25
 # 
 # 
 # _______reboot 4x390_______
-# reb 9214ad 1
+reb 9214ad 1
 # 
 # _______reboot 4x290_______
 # reb a97e7e 1
