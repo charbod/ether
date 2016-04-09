@@ -12,8 +12,8 @@ globalpowertune 25
 #
 # reboot 4x390, increment number to reboot again
 reb 9214ad 2
-#
-# apply powertune only to this rig
+# cor 9214ad 
+# mem 9214ad
 pwr 9214ad 50 50 50 50
 #
 # 
@@ -21,8 +21,8 @@ pwr 9214ad 50 50 50 50
 # 
 # reboot 4x290, increment number to reboot again
 reb a97e7e 1
-#
-# apply powertune only to this rig
+cor a97e7e 1115 1115
+mem a97e7e 1450 1450
 pwr a97e7e 50 50
 #
 #
