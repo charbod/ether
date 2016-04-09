@@ -8,12 +8,22 @@ globalfan 100
 globalpowertune 25
 # 
 # 
-# _______reboot 4x390_______
-reb 9214ad 1
-# 
-# _______reboot 4x290_______
-# reb a97e7e 1
+# ==========4x390 is 9214ad==================
 #
+# reboot 4x390, increment number to reboot again
+reb 9214ad 2
+#
+# apply powertune only to this rig
+pwr 9214ad 50 50 50 50
+#
+# 
+# ==========4x290 is 	a97e7e==================
+# 
+# reboot 4x290, increment number to reboot again
+reb a97e7e 1
+#
+# apply powertune only to this rig
+pwr a97e7e 50 50
 #
 #
 # !!!!!!!!!!!!! IMPORTANT NOTICE !!!!!!!!!!!!!!!!!!
