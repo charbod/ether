@@ -11,16 +11,16 @@ globalpowertune 25
 # ==========4x390 is 9214ad==================
 #
 # reboot 4x390, increment number to reboot again
-reb 9214ad 2
-# cor 9214ad 
-# mem 9214ad
+reb 9214ad 3
+cor 9214ad 1135 1135 1135 1135
+mem 9214ad 1500 1500 1500 1500
 pwr 9214ad 50 50 50 50
 #
 # 
 # ==========4x290 is 	a97e7e==================
 # 
 # reboot 4x290, increment number to reboot again
-reb a97e7e 1
+reb a97e7e 2
 cor a97e7e 1115 1115
 mem a97e7e 1450 1450
 pwr a97e7e 50 50
