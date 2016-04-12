@@ -21,9 +21,9 @@ pwr 9214ad 50 50 50 50
 # 
 # reboot 4x290, increment number to reboot again
 reb a97e7e 2
-cor a97e7e 1115 1115 1115 1115
-mem a97e7e 1450 1450 1450 1450
-pwr a97e7e 50 50 50 50
+cor a97e7e 1000 1000 1000 1000
+mem a97e7e 1250 1250 1250 1250
+pwr a97e7e 20 20 20 20
 #
 #
 # !!!!!!!!!!!!! IMPORTANT NOTICE !!!!!!!!!!!!!!!!!!
