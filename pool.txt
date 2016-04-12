@@ -8,22 +8,52 @@ globalfan 100
 globalpowertune 25
 # 
 # 
-# ==========4x390 is 9214ad==================
+# ==========r3-4x7990 is 84adca==================
+#
+# increment number to reboot again
+reb 84adca 1
+cor 84adca 1135 1135
+mem 84adca 1500 1500
+pwr 84adca 50 50
+fan 84adca 100 100
+#
+# # ========== is ==================
+#
+# reboot 4x390, increment number to reboot again
+# reb  1
+# cor  1135 1135 1135 1135
+# mem  1500 1500 1500 1500
+# pwr  50 50 50 50
+# fan  100 100 100 100
+#
+# # ========== is ==================
+#
+# increment number to reboot again
+# reb  1
+# cor  1135 1135 1135 1135
+# mem  1500 1500 1500 1500
+# pwr  50 50 50 50
+# fan  100 100 100 100
+#
+# 
+# ==========r2-4x390 is 9214ad==================
 #
 # reboot 4x390, increment number to reboot again
 reb 9214ad 3
 cor 9214ad 1135 1135 1135 1135
 mem 9214ad 1500 1500 1500 1500
 pwr 9214ad 50 50 50 50
+fan 9214ad 100 100 100 100
 #
 # 
-# ==========4x290 is 	a97e7e==================
+# ==========r4-4x290 is 	a97e7e==================
 # 
 # reboot 4x290, increment number to reboot again
 reb a97e7e 2
 cor a97e7e 1000 1000 1000 1000
 mem a97e7e 1250 1250 1250 1250
 pwr a97e7e 20 20 20 20
+fan a97e7e 100 100 100 100
 #
 #
 # !!!!!!!!!!!!! IMPORTANT NOTICE !!!!!!!!!!!!!!!!!!
