@@ -26,8 +26,15 @@ mem 9214ad 1500 1500 1500 1500
 pwr 9214ad 50 50 50 50
 fan 9214ad 100 100 100 100
 #
-# 
-# 
+# ==========monstrosity is 5cf5eb==================
+# 6x390
+# increment number to reboot again
+# reb 5cf5eb 1
+cor 5cf5eb 1135 1135 1135 1135 1135 1135
+mem 5cf5eb 1500 1500 1500 1500 1500 1500
+pwr 5cf5eb 50 50 50 50 50 50
+fan 5cf5eb 100 100 100 100 100 100
+
 # ==========r3-4x7990 is 84adca==================
 #
 # increment number to reboot again
