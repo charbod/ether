@@ -5,7 +5,7 @@ proxypool1 us1.ethermine.org:4444
 proxypool2 us2.ethermine.org:4444
 flags --cl-global-work 16384 --farm-recheck 200
 globalfan 100
-globalpowertune 25
+# globalpowertune 25
 # 
 # ========== is 1946e8==================
 #
@@ -50,10 +50,10 @@ mxt 5cf5d5 80
 # ==========r3-4x7990 is 84adca==================
 #
 # increment number to reboot again
-reb 84adca 1
-cor 84adca 950 950 950 1000 
-mem 84adca 1250 1250 1250 1350
-pwr 84adca 20 20 20 20
+# reb 84adca 1
+# cor 84adca 950 950 950 1000 
+# mem 84adca 1250 1250 1250 1350
+# pwr 84adca 20 20 20 20
 fan 84adca 100 100 100 100
 #
 # ==========r4-4x290 is 	a97e7e==================
