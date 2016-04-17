@@ -29,7 +29,7 @@ fan 9214ad 100 100 100 100
 # ==========monstrosity is 5cf5d3=======.46===========
 # 6x390
 # increment number to reboot again
-reb 5cf5d3 1
+reb 5cf5d3 2
 cor 5cf5d3 1135 1135 1135 1135 1135 1135
 mem 5cf5d3 1500 1500 1500 1500 1500 1500
 pwr 5cf5d3 50 50 50 50 50 50
