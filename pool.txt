@@ -4,8 +4,10 @@ proxywallet 0x1B9E920592e5557E3769319A7fb56bb94255ae7d
 proxypool1 us1.ethermine.org:4444
 proxypool2 us2.ethermine.org:4444
 flags --cl-global-work 16384 --farm-recheck 200
-globalfan 100
-# globalpowertune 25
+globalfan 100 100 100 100 100 100
+globalcore 1000 1000 1000 1000 1000 1000
+globalmem 1250 1250 1250 1250 1250 1250
+global power tune 5 5 5 5 5 5
 # 
 # ========== is 1946e8==================
 #
@@ -21,9 +23,9 @@ globalfan 100
 #
 # reboot 4x390, increment number to reboot again
 reb 9214ad 3
-cor 9214ad 1135 1135 1135 1135
-mem 9214ad 1500 1500 1500 1500
-pwr 9214ad 50 50 50 50
+# cor 9214ad 1135 1135 1135 1135
+# mem 9214ad 1500 1500 1500 1500
+# pwr 9214ad 50 50 50 50
 fan 9214ad 100 100 100 100
 #
 # ==========monstrosity is 5cf5d3=======.46===========
@@ -57,28 +59,28 @@ fan 5cf5d5 100 100 100 100 100 100
 #
 # increment number to reboot again
 reb 84adca 1
-cor 84adca 1000 0 0 0 0 0
-mem 84adca 1250 0 0 0 0 0
-pwr 84adca 20 0 0 0 0 0
-fan 84adca 100 50 50 50 50 50
+# cor 84adca 1000 0 0 0 0 0
+# mem 84adca 1250 0 0 0 0 0
+# pwr 84adca 20 0 0 0 0 0
+# fan 84adca 100 50 50 50 50 50
 #
 # ==========r4-4x290 is 	a97e7e==================
 # 
 # increment number to reboot again
 reb a97e7e 2
-cor a97e7e 1000 1000 1000 1000
-mem a97e7e 1250 1250 1250 1250
-pwr a97e7e 20 20 20 20
+# cor a97e7e 1000 1000 1000 1000
+# mem a97e7e 1250 1250 1250 1250
+# pwr a97e7e 20 20 20 20
 fan a97e7e 100 100 100 100
 #
 # ==========4x380 is a7cb59===172.20.105.28===============
 #
 # increment number to reboot again
 reb a7cb59 1
-cor a7cb59 1000 1000 1000 1000
-mem a7cb59 1250 1250 1250 1250
-pwr a7cb59 20 20 20 20
-fan a7cb59 100 100 100 100
+# cor a7cb59 1000 1000 1000 1000
+# mem a7cb59 1250 1250 1250 1250
+# pwr a7cb59 20 20 20 20
+# fan a7cb59 100 100 100 100
 #
 # ===============================================
 # !!!!!!!!!!!!! IMPORTANT NOTICE !!!!!!!!!!!!!!!!!!
