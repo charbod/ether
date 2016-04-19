@@ -7,8 +7,10 @@ flags --cl-global-work 16384 --farm-recheck 200
 globalfan 100 100 100 100 100 100
 globalcore 1000 1000 1000 1000 1000 1000
 globalmem 1250 1250 1250 1250 1250 1250
-globalpowertune 0 0 0 0 0 0
-# 
+globalpowertune -10 -10 -10 -10 -10 -10 
+#
+#
+#
 # ========== is 1946e8==================
 #
 # increment number to reboot again
