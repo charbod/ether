@@ -5,39 +5,26 @@ proxypool1 us1.ethermine.org:4444
 proxypool2 us2.ethermine.org:4444
 flags --cl-global-work 16384 --farm-recheck 200
 globalfan 100 100 100 100 100 100
-globalcore 1100 1100 1100 1100 1100 1100
+globalcore 1135 1135 1135 1135 1135 1135
 globalmem 1500 1500 1500 1500 1500 1500
-globalpowertune 20 20 20 20 20 20
+globalpowertune 50 50 50 50 50 50
 #
-#
-#
-#
-# ========== is 1946e8=====5x290=============
-#
-# increment number to reboot again
-reb 1946e8 1
-cor 1946e8 1000 1000 1000 1000 1000
+# ==========1946e8=====5x290===========
+reb 1946e8 2
+cor 1946e8 1000 950 1000 1000 1000
 mem 1946e8 1250 1250 1250 1250 1250
 pwr 1946e8 20 0 20 20 20
 fan 1946e8 100 100 100 100 100
 #
-# 
-# ==========4x390 is 9214ad==================
-#
-# reboot 4x390, increment number to reboot again
+# ==========9214ad=====4x390===========
 reb 9214ad 3
-# cor 9214ad 1135 1135 1135 1135
-# mem 9214ad 1500 1500 1500 1500
-# pwr 9214ad 50 50 50 50
 fan 9214ad 100 100 100 100
 #
-# ==========monstrosity is 5cf5d3=======.46===========
-# 6x390
-# increment number to reboot again
+# ==========5cf5d3=====6x390===========
 reb 5cf5d3 2
 fan 5cf5d3 100 100 100 100 100 100
 #
-# ==========septopus is 5cf5d5=====.47=============
+# ==========5cf5d5=====6x390===========
 # 6x390
 reb 5cf5d5 1
 # cor 5cf5d5 1135 1135 1135 1135 1135 1135
