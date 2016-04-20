@@ -15,7 +15,7 @@ globalpowertune 20 20 20 20 20 20
 # ========== is 1946e8==================
 #
 # increment number to reboot again
-# reb 1946e8 1
+reb 1946e8 1
 # cor 1946e8 1000 1000 1000 1000 950
 # mem 1946e8 1250 1250 1250 1250 1000
 # pwr 1946e8 20 20 20 20 20
