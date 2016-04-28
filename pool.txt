@@ -1,13 +1,13 @@
-maxgputemp 90
+maxgputemp 85
 stratumproxy enabled
 proxywallet 0x1B9E920592e5557E3769319A7fb56bb94255ae7d
 proxypool1 us1.ethermine.org:4444
 proxypool2 us2.ethermine.org:4444
 flags --cl-global-work 16384 --farm-recheck 200
 globalfan 100 100 100 100 100 100
-globalcore 1135 1135 1135 1135 1135 1135
-globalmem 1500 1500 1500 1500 1500 1500
-globalpowertune 50 50 50 50 50 50
+globalcore 1000 1000 1000 1000 1000 1000
+globalmem 1250 1250 1250 1250 1250 1250
+globalpowertune 20 20 20 20 20 20
 #
 # ==========1946e8=====5x290===========
 reb 1946e8 5
@@ -35,18 +35,18 @@ fan 5cf5d3 100 100 100 100 100 100
 #
 # ==========5cf5d5=====6x390===========
 reb 5cf5d5 4
-# cor 5cf5d5 1000 1000 1000 1000 1000 1000
+cor 5cf5d5 1000 1000 1000 1000 1000 1000
 # cor 5cf5d5 1135 1135 1135 1135 1135 1135
-# mem 5cf5d5 1250 1250 1250 1250 1250 1250
+mem 5cf5d5 1250 1250 1250 1250 1250 1250
 # mem 5cf5d5 1500 1500 1500 1500 1500 1500
-# pwr 5cf5d5 20 20 20 20 20 20
+pwr 5cf5d5 20 20 20 20 20 20
 fan 5cf5d5 100 100 100 100 100 100
 # 
 # ==========84adca=====295x2-7990====.40======
 reb 84adca 3
-cor 84adca 1135 1135 1135 1135
-mem 84adca 1500 1500 1500 1500
-pwr 84adca 50 50 20 20
+cor 84adca 1000 1000 1000 1000
+mem 84adca 1250 1250 1250 1250
+pwr 84adca 20 20 20 20
 fan 84adca 100 100 100 100
 #
 # ==========a97e7e=====4x290==========
