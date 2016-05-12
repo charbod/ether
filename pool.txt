@@ -7,7 +7,7 @@ flags --cl-global-work 16384 --farm-recheck 200
 globalfan 100 100 100 100 100 100
 globalcore 1040 1040 1040 1040 1040 1040
 globalmem 1250 1250 1250 1250 1250 1250
-globalpowertune 50 50 50 50 50 50
+globalpowertune 20 20 20 20 20 20
 #======================================================LOCATIONS====================================================
 loc 84adca 16-2
 loc 1a30b4 28-1
