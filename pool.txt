@@ -12,7 +12,7 @@ globalpowertune 20 20 20 20 20 20
 loc 84adca 16-2
 loc 1a30b4 28-1
 loc 1a30f1 28-2
-loc 1a6281 28-3
+loc 1a6281 15-3
 loc 1a6213 28-4
 loc a7cb59 29-1
 loc 1946e8 29-2
